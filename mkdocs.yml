@@ -1,4 +1,7 @@
 site_name: Magic Cat
 theme:
   name: material
+extra_css:
+  - stylesheets/extra.css
+
 
