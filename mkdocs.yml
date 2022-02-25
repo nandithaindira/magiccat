@@ -1,4 +1,10 @@
 site_name: Magic Cat
+nav: 
+  - Introduction: "index.md"
+  - Tutorial:
+	- Tutorial Subsection:"pages/test.md"
+  - About: "pages/about.md"
+  - FAQ: "pages/faq.md"
 theme:
   name: null
   custom_dir: mkdocs-material/material
